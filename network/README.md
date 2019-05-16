@@ -37,6 +37,6 @@
 4. Ping本地/远程主机
 5. 常用网络命令介绍
 
-## 网络优化
+## 网络随笔
 
-Todo
+1. [TCP的前世今生](https://www.evernote.com/l/AHBMaIl98XdBSJ97ula8iVQFDrclrHPGzX0)
